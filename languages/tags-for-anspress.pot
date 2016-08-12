@@ -1,0 +1,229 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"http://wordpress.org/support/plugin/anspress-question-answer\n"
+"POT-Creation-Date: 2016-04-02 03:50:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: functions.php:16
+msgid "Labelged"
+msgstr ""
+
+#: functions.php:74
+msgid "Questions"
+msgstr ""
+
+#: functions.php:130 labels-for-anspress.php:72 labels-for-anspress.php:297
+#: labels-for-anspress.php:311 labels-for-anspress.php:324
+#: labels-for-anspress.php:399 labels-for-anspress.php:468
+#: labels-for-anspress.php:490
+msgid "Labels"
+msgstr ""
+
+#: functions.php:148
+msgid "Popular"
+msgstr ""
+
+#: functions.php:149
+msgid "New"
+msgstr ""
+
+#: functions.php:150
+msgid "Name"
+msgstr ""
+
+#: labels-for-anspress.php:71 labels-for-anspress.php:604
+msgid "Label"
+msgstr ""
+
+#: labels-for-anspress.php:221
+msgid "AP Labels"
+msgstr ""
+
+#: labels-for-anspress.php:225
+msgid "Widgets in this area will be shown in anspress labels page."
+msgstr ""
+
+#: labels-for-anspress.php:244
+msgid "Question Labels"
+msgstr ""
+
+#: labels-for-anspress.php:246
+msgid "All Labels"
+msgstr ""
+
+#: labels-for-anspress.php:248
+msgid "Edit Label"
+msgstr ""
+
+#: labels-for-anspress.php:249
+msgid "New Label"
+msgstr ""
+
+#: labels-for-anspress.php:250
+msgid "View Label"
+msgstr ""
+
+#: labels-for-anspress.php:251
+msgid "Search Label"
+msgstr ""
+
+#: labels-for-anspress.php:252
+msgid "Nothing Found"
+msgstr ""
+
+#: labels-for-anspress.php:253
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: labels-for-anspress.php:311
+msgid "Questions Labels"
+msgstr ""
+
+#: labels-for-anspress.php:327
+msgid "Labels to show"
+msgstr ""
+
+#: labels-for-anspress.php:328
+msgid "Numbers of labels to show in labels page."
+msgstr ""
+
+#: labels-for-anspress.php:334
+msgid "Maximum labels"
+msgstr ""
+
+#: labels-for-anspress.php:335
+msgid "Maximum numbers of labels that user can add when asking."
+msgstr ""
+
+#: labels-for-anspress.php:341
+msgid "Minimum labels"
+msgstr ""
+
+#: labels-for-anspress.php:342
+msgid "minimum numbers of labels that user must add when asking."
+msgstr ""
+
+#: labels-for-anspress.php:348
+msgid "Labels page title"
+msgstr ""
+
+#: labels-for-anspress.php:349
+msgid "Title for labels page"
+msgstr ""
+
+#: labels-for-anspress.php:356
+msgid "Labels page slug"
+msgstr ""
+
+#: labels-for-anspress.php:357
+msgid "Slug labels page"
+msgstr ""
+
+#: labels-for-anspress.php:365
+msgid "Label page slug"
+msgstr ""
+
+#: labels-for-anspress.php:366
+msgid "Slug for label page"
+msgstr ""
+
+#: labels-for-anspress.php:419
+msgid "Delete Label"
+msgstr ""
+
+#: labels-for-anspress.php:420
+msgid "Add Label"
+msgstr ""
+
+#: labels-for-anspress.php:421
+msgid "added to the labels list."
+msgstr ""
+
+#: labels-for-anspress.php:422
+msgid "removed from the labels list."
+msgstr ""
+
+#: labels-for-anspress.php:423
+msgid "Suggestions are available. Use the up and down arrow keys to read it."
+msgstr ""
+
+#: labels-for-anspress.php:471
+msgid "Type and hit enter"
+msgstr ""
+
+#: labels-for-anspress.php:493
+msgid "Slowly type for suggestions"
+msgstr ""
+
+#: labels-for-anspress.php:562
+msgid "Categories"
+msgstr ""
+
+#: labels-for-anspress.php:767
+msgid ""
+"Labels extension require AnsPress 2.4-RC or above. Download from Github "
+"%shttp://github.com/anspress/anspress%s"
+msgstr ""
+
+#: theme/no-labels-found.php:15
+msgid "No labels is set!"
+msgstr ""
+
+#: theme/label.php:12
+msgid "Question label: %s"
+msgstr ""
+
+#: theme/label.php:12
+msgid "1 Question"
+msgid_plural "%s Questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/labels-question-list.php:22
+msgid "View all questions"
+msgstr ""
+
+#: theme/labels.php:23
+msgid "Search labels..."
+msgstr ""
+
+#: theme/labels.php:38
+msgid "%d Question"
+msgid_plural "%d Questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme/labels.php:47
+msgid "No description."
+msgstr ""
+
+#: labels-for-anspress.php:245
+msgctxt "labels-for-anspress"
+msgid "Label"
+msgstr ""
+
+#: labels-for-anspress.php:247
+msgctxt "labels-for-anspress"
+msgid "Add New Label"
+msgstr ""
